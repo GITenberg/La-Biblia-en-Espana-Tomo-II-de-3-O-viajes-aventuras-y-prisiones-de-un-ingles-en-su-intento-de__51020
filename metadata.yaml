@@ -23,6 +23,8 @@ language: es
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'La Biblia en España, Tomo II (de 3)
 
   O viajes, aventuras y prisiones de un inglés en su intento de difundir las Escrituras
